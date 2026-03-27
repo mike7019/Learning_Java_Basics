@@ -151,6 +151,8 @@ public class JavaCollections {
         System.out.println("unmodifiableList: " + listaSoloLectura);
         System.out.println("synchronizedList: " + listaSincronizada);
 
+
+
         // Si descomentas la linea siguiente, lanzara UnsupportedOperationException
         // listaSoloLectura.add("cuatro");
         listaSincronizada.add("cuatro");

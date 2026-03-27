@@ -20,8 +20,6 @@ public class EjemploDeArrays {
         }catch(Exception e){
             System.out.println("Mensaje de la excepcion: " + e.getMessage());
         }
-
-
     }
 
 }
